@@ -1,0 +1,24 @@
+contractor
+Angel Nkhosi
+0763361131
+adenh@gmail.com
+1st Street
+
+architect
+Daniel Haynes
+0763361131
+adenh@gmail.com
+1st Street
+
+customer
+Abraham Lincoln
+0987654321
+abry@yahoo.com
+DC
+
+customer
+Aden H
+0763361131
+adenh@gmail.com
+1st Street
+

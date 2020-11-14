@@ -1,0 +1,39 @@
+3
+Shopping Centre Lincoln
+Shopping Centre
+3 Brie Street
+234
+2.34E8
+1.0E8
+27/09/2020
+Daniel Haynes
+Angel Nkhosi
+Abraham Lincoln
+Uncompleted
+
+1
+House Aden
+House
+1st Street
+23
+100000.0
+20000.0
+27/05/2020
+Daniel Haynes
+Angel Nkhosi
+Aden H
+Finalised on 20 May 2020
+
+2
+Apartment New
+Apartment
+2ndt Street
+25
+100000.0
+20000.0
+22/01/2020
+Daniel Haynes
+Angel Nkhosi
+Aden H
+Uncompleted
+
